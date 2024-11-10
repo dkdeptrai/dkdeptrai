@@ -40,5 +40,5 @@ A community-driven mobile application for book and movie enthusiasts
 
 ## 📫 Get in Touch
 - Email: khoa.soft.e@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dknguyen-kdz
+- LinkedIn: https://www.linkedin.com/in/dknguyen-kdz/
 - Location: D9, Thu Duc City, Ho Chi Minh City, Vietnam

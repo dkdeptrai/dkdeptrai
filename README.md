@@ -29,7 +29,7 @@ A full-stack e-commerce platform built with Ruby on Rails
 - **Tech Stack**: Rails, Stimulus JS, PostgreSQL, TailwindCSS
 - **Features**: User authentication, product management, shopping cart
 - **Testing**: Comprehensive test suite with Minitest and Capybara
-- [View Live](https://online-store-floral-star-531.fly.dev) | [Source Code](https://github.com/dkdeptrai/online_store)
+- [Live Site](https://online-store-floral-star-531.fly.dev) | [Source Code](https://github.com/dkdeptrai/online_store)
 
 ### BookVies - Book and Movie Review Platform
 A community-driven mobile application for book and movie enthusiasts

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khoa Nguyen
+# 👋 Hi there, I'm Khoa Nguyen
 
 I'm a fourth-year Software Engineering student at UIT-VNUHCM, passionate about web development with Ruby on Rails. I enjoy building full-stack applications and learning new technologies.
 

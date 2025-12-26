@@ -49,6 +49,7 @@ I am a fourth-year Software Engineering student at **UIT-VNUHCM** with professio
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dknguyen-kdz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoa.soft.e@gmail.com)
-*Location* Ho Chi Minh City - Vietnam
+<br>
+* Ho Chi Minh City - Vietnam
 ---
 *“Continuously learning and refining the art of scalable software engineering.”*

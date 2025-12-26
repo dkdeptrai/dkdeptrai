@@ -1,9 +1,13 @@
 # 👋 Hi there, I'm Khoa Nguyen
 
-**Junior Backend Software Engineer | Kotlin & Spring Boot Specialist**
+### 🧑‍💻 About Me
 
-I am a fourth-year Software Engineering student at **UIT-VNUHCM** with professional experience in building high-stakes financial platforms and scalable microservices. I focus on high-performance backend architecture, concurrency optimization, and integrating AI-driven search capabilities.
+I am a **Backend Software Engineer** specializing in **Kotlin** and **Spring Boot**, with a focus on building and optimizing high-throughput scalable systems.
 
+* **Performance Optimization:** Recently achieved a **40% reduction in API latency** by refactoring I/O-intensive services using **concurrency and parallelism**.
+* **System Reliability:** Hands-on experience resolving complex **distributed system** challenges, including fixing **Redis concurrency anti-patterns** (read-modify-write) and managing race conditions.
+* **Architecture:** Skilled in implementing **multi-tenant architectures** and granular entitlement systems for enterprise-grade B2B2C platforms.
+* **Mission:** I am driven by the challenge of translating complex business requirements into **high-performance, maintainable, and auditable code**.
 ---
 
 ### 🚀 Professional Impact

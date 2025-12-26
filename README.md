@@ -1,44 +1,54 @@
 # 👋 Hi there, I'm Khoa Nguyen
 
-I'm a fourth-year Software Engineering student at UIT-VNUHCM, passionate about web development with Ruby on Rails. I enjoy building full-stack applications and learning new technologies.
+**Junior Backend Software Engineer | Kotlin & Spring Boot Specialist**
 
-## 🛠 Technical Skills
+I am a fourth-year Software Engineering student at **UIT-VNUHCM** with professional experience in building high-stakes financial platforms and scalable microservices. I focus on high-performance backend architecture, concurrency optimization, and integrating AI-driven search capabilities.
 
-**Backend Development**
-- Ruby on Rails
-- RESTful APIs
-- PostgreSQL
-- Testing (Minitest, RSpec, Capybara)
+---
 
-**Frontend Development**
-- HTML & CSS
-- JavaScript
-- Stimulus JS
-- TailwindCSS
+### 🚀 Professional Impact
+* **Performance:** Reduced API response times by **40%** through refactoring with concurrency and parallelism.
+* **Reliability:** Eliminated critical data-loss race conditions in **Redis** by resolving "read-modify-write" anti-patterns.
+* **Innovation:** Integrated **Vector Databases** and embedding models to support semantic search and recommendation systems.
+* **Architecture:** Contributed to **B2B2C multi-tenant** transitions for enterprise-grade wealth management platforms.
 
-**Other Tools & Technologies**
-- Git & GitHub
-- Firebase
-- Flutter
-- Fly.io Deployment
+---
 
-## 🚀 Featured Projects
+### 🛠 Technical Toolkit
 
-### Online Store Website
-A full-stack e-commerce platform built with Ruby on Rails
-- **Tech Stack**: Rails, Stimulus JS, PostgreSQL, TailwindCSS
-- **Features**: User authentication, product management, shopping cart
-- **Testing**: Comprehensive test suite with Minitest and Capybara
-- [Live Site](https://online-store-floral-star-531.fly.dev) | [Source Code](https://github.com/dkdeptrai/online_store)
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | **Kotlin**, **Spring Boot**, Ruby on Rails, Java |
+| **Data & Cache** | **PostgreSQL**, **Redis**, Elasticsearch (ELK), Vector DB |
+| **Infrastructure** | Microservices, RESTful APIs, Slack API, Fly.io, Git |
+| **Security** | RBAC, OAuth2, AES-256 Encryption, Audit Logging |
+| **Frontend** | React, TailwindCSS, JavaScript (Stimulus JS) |
 
-### BookVies - Book and Movie Review Platform
-A community-driven mobile application for book and movie enthusiasts
-- **Tech Stack**: Flutter, Firebase
-- **Features**: Social sharing, reviews, user profiles
-- **Role**: Mobile Developer & Designer
-- [Source Code](https://github.com/dkdeptrai/BookVies)
+---
 
-## 📫 Get in Touch
-- Email: khoa.soft.e@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dknguyen-kdz/
-- Location: D9, Thu Duc City, Ho Chi Minh City, Vietnam
+### 📂 Featured Projects
+
+#### 🏦 UHNW Wealth & Asset Management Platform
+*Professionally developed at Money Forward Vietnam*
+* Built secure data pipelines for reconciling financial and non-financial assets (Private Equity, Real Estate).
+* Engineered a secure personal file vault featuring **vector-embedding indexing** for semantic search.
+* Optimized I/O-intensive requests using Kotlin's coroutines and batch processing.
+
+#### 🛒 E-Commerce Microservices
+*University Project*
+* Implemented **ELK Stack** for sub-second keyword search and centralized system monitoring.
+* Developed a recommendation engine leveraging embedding models and a vector database for context-aware discovery.
+
+#### 🎫 Internal HR Request System
+*Full-stack Development*
+* Automated HR workflows by integrating the **Slack API**, allowing ticket creation via slash commands.
+* Built a secure administrative dashboard with robust **Authentication & Authorization (RBAC)**.
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dknguyen-kdz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoa.soft.e@gmail.com)
+*Location* Ho Chi Minh City - Vietnam
+---
+*“Continuously learning and refining the art of scalable software engineering.”*
